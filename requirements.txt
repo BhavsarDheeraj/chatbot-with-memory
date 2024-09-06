@@ -1,0 +1,9 @@
+ipykernel
+langchain
+langchain-community
+langchain-core
+langchain-cli
+langchain-openai
+python-dotenv
+wikipedia
+zep-python
